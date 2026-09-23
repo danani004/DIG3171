@@ -16,7 +16,10 @@ Check out my image!
 
 ![My ESPN Word Bubble](esp.png)
 ---
-![](Screenshot2026-09-222050123.png)
+Here are parts of my convos with Copilot!
+---
+![1](OA5.png)
+![2](tone.png)
 
 
 
